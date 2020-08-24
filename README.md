@@ -1,2 +1,2 @@
 # reddit-amber-clone
-Building reddit clone with Nodejs and react
+Building a reddit clone with Nodejs and react
